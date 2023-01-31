@@ -17,6 +17,6 @@ incremental = false
 overflow-checks = true
 
 [dependencies]
-cosmwasm-std = "1.2.0"
+cosmwasm-std = "1.2.1"
 archway-sdk = { git = "https://github.com/alessandro-baldassarre/archway-sdk" }
 
